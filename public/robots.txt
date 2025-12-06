@@ -1,0 +1,39 @@
+# Allow all search engines and AI crawlers
+User-agent: *
+Allow: /
+
+# AI Crawlers - Explicitly allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Disallow admin or API routes if any
+Disallow: /api/
+
+# Sitemap and AI Indexing Files
+Sitemap: https://byencrypt.com/sitemap.xml
+AI-Index: https://byencrypt.com/ai-indexing.json
+AI-Info: https://byencrypt.com/ai.txt

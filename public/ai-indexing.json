@@ -1,0 +1,173 @@
+{
+  "company": {
+    "name": "Vyankatesh",
+    "type": "Personal Portfolio",
+    "founded": "2025",
+    "description": "Personal portfolio showcasing blockchain, Web3, AI, and full-stack development work",
+    "website": "/",
+    "email": "realpiyush2525@gmail.com",
+    "businessEmail": "realpiyush2525@gmail.com"
+  },
+  "services": [
+    {
+      "name": "Blockchain Development",
+      "slug": "blockchain-development",
+      "description": "Smart contracts, DeFi protocols, NFT platforms, and custom blockchain solutions",
+      "technologies": [
+        "Solidity",
+        "Rust",
+        "Hardhat",
+        "Web3.js",
+        "Ethers.js",
+        "Ethereum",
+        "Polygon",
+        "Solana"
+      ],
+      "timeline": "4-8 weeks",
+      "url": "https://byencrypt.com/services/blockchain-development"
+    },
+    {
+      "name": "Full Stack Development",
+      "slug": "full-stack-development",
+      "description": "End-to-end web and mobile applications with modern frameworks",
+      "technologies": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "timeline": "6-12 weeks",
+      "url": "https://byencrypt.com/services/full-stack-development"
+    },
+    {
+      "name": "Web3 Solutions",
+      "slug": "web3-solutions",
+      "description": "Decentralized applications and Web3 integrations",
+      "technologies": [
+        "Web3.js",
+        "Ethers.js",
+        "IPFS",
+        "MetaMask",
+        "WalletConnect",
+        "The Graph"
+      ],
+      "timeline": "3-6 weeks",
+      "url": "https://byencrypt.com/services/web3-solutions"
+    },
+    {
+      "name": "AI & Machine Learning",
+      "slug": "ai-machine-learning",
+      "description": "Intelligent automation, predictive analytics, and AI-powered features",
+      "technologies": [
+        "TensorFlow",
+        "PyTorch",
+        "OpenAI API",
+        "Hugging Face",
+        "Scikit-learn",
+        "Python"
+      ],
+      "timeline": "8-16 weeks",
+      "url": "https://byencrypt.com/services/ai-machine-learning"
+    },
+    {
+      "name": "Backend Architecture",
+      "slug": "backend-architecture",
+      "description": "Scalable server infrastructure, APIs, and database design",
+      "technologies": [
+        "Node.js",
+        "Python",
+        "Go",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Kubernetes"
+      ],
+      "timeline": "4-10 weeks",
+      "url": "https://byencrypt.com/services/backend-architecture"
+    },
+    {
+      "name": "Security & Auditing",
+      "slug": "security-auditing",
+      "description": "Comprehensive security assessments and smart contract audits",
+      "technologies": [
+        "Mythril",
+        "Slither",
+        "OpenZeppelin",
+        "Burp Suite",
+        "OWASP ZAP"
+      ],
+      "timeline": "2-4 weeks",
+      "url": "https://byencrypt.com/services/security-auditing"
+    },
+    {
+      "name": "Custom Solutions",
+      "slug": "custom-solutions",
+      "description": "Bespoke software development and legacy modernization",
+      "technologies": [
+        "Custom Stack",
+        "React",
+        "Node.js",
+        "Python",
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "timeline": "Project Dependent (2-16+ weeks)",
+      "url": "https://byencrypt.com/services/custom-solutions"
+    }
+  ],
+  "blog": [
+    {
+      "title": "Smart Contract Development Best Practices",
+      "url": "https://byencrypt.com/blog/smart-contract-development-best-practices",
+      "topics": ["blockchain", "smart contracts", "security", "Solidity"]
+    },
+    {
+      "title": "Web3 vs Web2: Business Transformation Guide",
+      "url": "https://byencrypt.com/blog/web3-vs-web2-business-transformation-guide",
+      "topics": ["Web3", "business transformation", "blockchain"]
+    },
+    {
+      "title": "DeFi Development Guide 2025",
+      "url": "https://byencrypt.com/blog/defi-development-guide-2025",
+      "topics": ["DeFi", "blockchain", "finance", "development"]
+    },
+    {
+      "title": "AI & Blockchain Integration Guide",
+      "url": "https://byencrypt.com/blog/ai-blockchain-integration-guide",
+      "topics": ["AI", "blockchain", "machine learning", "integration"]
+    },
+    {
+      "title": "Full Stack Development Trends 2025",
+      "url": "https://byencrypt.com/blog/full-stack-development-trends-2025",
+      "topics": ["full-stack", "development trends", "web development"]
+    }
+  ],
+  "contact": {
+    "email": "realpiyush2525@gmail.com",
+    "business": "realpiyush2525@gmail.com",
+    "careers": "/career/apply",
+    "form": "/contact"
+  },
+  "social": {
+    "github": "https://github.com/VyankateshRohokale",
+    "twitter": "https://x.com/realpiyush2525",
+    "linkedin": "https://www.linkedin.com/in/vyankatesh-rohokale-695b342a7/"
+  },
+  "indexing": {
+    "allowAICrawling": true,
+    "allowAITraining": true,
+    "lastUpdated": "2025-11-18",
+    "contentType": "business-services",
+    "industryCategories": [
+      "software-development",
+      "blockchain",
+      "web3",
+      "artificial-intelligence",
+      "cloud-computing"
+    ]
+  }
+}

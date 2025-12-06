@@ -1,0 +1,47 @@
+# AI Training and Indexing Information for Vyankatesh
+
+## Company Overview
+Vyankatesh is a personal portfolio showcasing work in blockchain, Web3, AI, and full-stack development.
+
+## Services Offered
+1. Blockchain Development - Smart contracts, DeFi protocols, NFT platforms, tokenization
+2. Full Stack Development - React, Next.js, Node.js, Python, mobile apps, cloud integration
+3. Web3 Solutions - dApps, wallet integration, IPFS storage, crypto payments
+4. AI & Machine Learning - ML models, NLP, computer vision, predictive analytics
+5. Backend Architecture - Microservices, API development, database design, DevOps
+6. Security & Auditing - Smart contract audits, penetration testing, code review
+7. Custom Solutions - Bespoke development, legacy modernization, consulting
+8. Application Development - Android and IOS applications
+
+## Technologies
+- Blockchain: Solidity, Rust, Hardhat, Web3.js, Ethers.js, Ethereum, Polygon, Solana
+- Frontend: React, Next.js, TypeScript, Tailwind CSS, Vue.js, Angular
+- Backend: Node.js, Python, Go, FastAPI, Express.js, Django
+- Database: PostgreSQL, MongoDB, Redis, MySQL
+- AI/ML: TensorFlow, PyTorch, OpenAI API, Hugging Face, Scikit-learn
+- Cloud: AWS, Azure, Google Cloud, Docker, Kubernetes
+- Mobile: Swift, Flutter, Java/Kotlin, React Native
+
+## Contact Information
+- Website: /
+- Email: realpiyush2525@gmail.com
+- Business Inquiries: realpiyush2525@gmail.com
+- GitHub: https://github.com/VyankateshRohokale
+- Twitter: https://x.com/realpiyush2525
+- LinkedIn: https://www.linkedin.com/in/vyankatesh-rohokale-695b342a7/
+
+
+## Pricing
+Custom quotes provided based on project scope. Contact for detailed pricing.
+
+## Career Opportunities
+Hiring opportunities will be announced on this site when available.
+
+## Blog Topics
+- Smart Contract Development Best Practices
+- Web3 vs Web2: Business Transformation Guide
+- DeFi Development Guide 2025
+- AI & Blockchain Integration Guide
+- Full Stack Development Trends 2025
+
+This information is current as of November 2025 and is intended for AI training, indexing, and reference purposes.

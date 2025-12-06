@@ -1,0 +1,238 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 0 0% 9%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 96.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 96.1%;
+    --accent-foreground: 0 0% 9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 0 0% 9%;
+    --secondary: 0 0% 14.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 0 0% 14.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 0 0% 83.1%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+
+    /* {
+                    "A": "YAEzvg11fHs",
+                    "C": "Clock",
+                    "D": [
+                        {
+                            "style": "REGULAR",
+                            "files": [
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.909c24e4a59dfbbd85a15611f99bfb05.woff",
+                                    "format": "WOFF",
+                                    "sizeBytes": 11644
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.c307bf37bf48b28f9baedaf64014679a.otf",
+                                    "format": "OTF_CFF",
+                                    "sizeBytes": 20244
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.5d6ebd641677d5434cd316500343bc0a.woff2",
+                                    "format": "WOFF2",
+                                    "sizeBytes": 10392
+                                }
+                            ],
+                            "subsettedFiles": [
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/Clock-Regular.8d4bb08a31ed5394301c494e51.40206b74fe9b4a1ce47cb85a9e91b70.woff2",
+                                    "format": "WOFF2",
+                                    "unicodeRanges": [
+                                        {
+                                            "start": "0000",
+                                            "end": "007F"
+                                        },
+                                        {
+                                            "start": "0080",
+                                            "end": "00FF"
+                                        },
+                                        {
+                                            "start": "0100",
+                                            "end": "017F"
+                                        },
+                                        {
+                                            "start": "1E00",
+                                            "end": "1EFF"
+                                        }
+                                    ],
+                                    "sizeBytes": 7852
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/Clock-Regular.8d4bb08a31ed5394301c494e51.0e48247f23c84f86202fc0d78941e04e.otf",
+                                    "format": "OTF_CFF",
+                                    "unicodeRanges": [
+                                        {
+                                            "start": "0000",
+                                            "end": "007F"
+                                        },
+                                        {
+                                            "start": "0080",
+                                            "end": "00FF"
+                                        },
+                                        {
+                                            "start": "0100",
+                                            "end": "017F"
+                                        },
+                                        {
+                                            "start": "1E00",
+                                            "end": "1EFF"
+                                        }
+                                    ],
+                                    "sizeBytes": 14540
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/Clock-Regular.8d4bb08a31ed5394301c494e51.c70c05c78e8fe1000f96f5121159178a.woff",
+                                    "format": "WOFF",
+                                    "unicodeRanges": [
+                                        {
+                                            "start": "0000",
+                                            "end": "007F"
+                                        },
+                                        {
+                                            "start": "0080",
+                                            "end": "00FF"
+                                        },
+                                        {
+                                            "start": "0100",
+                                            "end": "017F"
+                                        },
+                                        {
+                                            "start": "1E00",
+                                            "end": "1EFF"
+                                        }
+                                    ],
+                                    "sizeBytes": 8772
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/cc7d0ab8-aa6e-4c3f-bef6-47812eb5829f1699.f1fcafb9-3d7d-40d0-8aca-e1de145fa.otf",
+                                    "format": "OTF_CFF",
+                                    "sizeBytes": 19012
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/cc7d0ab8-aa6e-4c3f-bef6-47812eb5829f1699.ee91875c-7f26-4e4f-8a28-afa1b66.woff2",
+                                    "format": "WOFF2",
+                                    "sizeBytes": 9412
+                                },
+                                {
+                                    "url": "https://font-public.canva.com/YAEzvg11fHs/0/subsets/cc7d0ab8-aa6e-4c3f-bef6-47812eb5829f1699.527d8585-36db-4380-be74-480f1466.woff",
+                                    "format": "WOFF",
+                                    "sizeBytes": 10632
+                                }
+                            ],
+                            "metadata": {
+                                "head": {
+                                    "unitsPerEm": 1000,
+                                    "yMin": -200,
+                                    "yMax": 800
+                                },
+                                "hhea": {
+                                    "ascender": 1000,
+                                    "descender": -200
+                                },
+                                "os2": {
+                                    "sTypoAscender": 800,
+                                    "sTypoDescender": -200,
+                                    "sTypoLineGap": 200,
+                                    "usWinAscent": 1000,
+                                    "usWinDescent": 200,
+                                    "fsSelection": 192
+                                }
+                            }
+                        }
+                    ]
+                }, */
+
+
+@font-face {
+
+  font-family: 'Clock';
+  src: url('https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.5d6ebd641677d5434cd316500343bc0a.woff2') format('woff2'),
+       url('https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.c307bf37bf48b28f9baedaf64014679a.otf') format('opentype'),
+       url('https://font-public.canva.com/YAEzvg11fHs/0/Clock-Regular.8d4bb08a31ed5394301c494e51.8d4bb08a31ed5394301c494e51.909c24e4a59dfbbd85a15611f99bfb05.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+
+}
+
+/* Hide scrollbar but keep scrolling */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+
