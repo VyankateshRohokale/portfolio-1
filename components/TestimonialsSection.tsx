@@ -185,7 +185,7 @@ const TestimonialsSection = () => {
                       <span className="text-lime-400 font-semibold">{testimonial.project}</span>
                     </span>
                     <div className="flex space-x-3">
-                      {testimonial.social.map((social, index) => (
+                      {testimonial.social.map((social: any, index: number) => (
                         <a
                           key={index}
                           href={social.url}
