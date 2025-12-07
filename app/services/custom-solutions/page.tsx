@@ -17,13 +17,13 @@ export const metadata: Metadata = {
         'custom development'
     ],
     openGraph: {
-        title: 'Custom Solutions | byencrypt',
+        title: 'Custom Solutions | Vyankatesh',
         description: 'Tailored software development services for your unique business challenges.',
-        url: 'https://byencrypt.com/services/custom-solutions',
+        url: 'https://vyankatesh.dev/services/custom-solutions',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/custom-solutions',
+        canonical: 'https://vyankatesh.dev/services/custom-solutions',
     },
 };
 

@@ -183,7 +183,7 @@ export default function ApplyFormPage() {
             name="coverLetter"
             value={form.coverLetter}
             onChange={handleChange}
-            placeholder="Cover Letter / Why do you want to join byencrypt?"
+            placeholder="Cover Letter / Why do you want to join Vyankatesh?"
             rows={4}
             className="w-full bg-gray-800 text-gray-200 rounded-lg px-4 py-3 focus:outline-none focus:border-lime-400 border border-gray-700"
           />

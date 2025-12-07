@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: 'Stay ahead with the latest trends and technologies in full-stack web development.',
         type: 'article',
         publishedTime: '2025-02-05T00:00:00.000Z',
-        authors: ['byencrypt'],
+        authors: ['Vyankatesh'],
     },
 };
 
@@ -535,7 +535,7 @@ const { data: products } = trpc.product.getAll.useQuery()
                         <div className="bg-gradient-to-r from-lime-400/10 to-transparent border-l-4 border-lime-400 p-6 mb-6">
                             <p className="text-white font-semibold mb-2">Need Expert Full-Stack Development?</p>
                             <p className="text-gray-300 mb-4">
-                                At byencrypt, we stay at the forefront of full-stack development trends, building modern, performant applications using the latest technologies. From MVPs to enterprise applications, we've got you covered.
+                                At Vyankatesh, we stay at the forefront of full-stack development trends, building modern, performant applications using the latest technologies. From MVPs to enterprise applications, we've got you covered.
                             </p>
                             <Link href="/contact" className="inline-flex items-center text-lime-400 hover:text-lime-300 font-semibold">
                                 Let's Build Your Project →

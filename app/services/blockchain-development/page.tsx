@@ -16,13 +16,13 @@ export const metadata: Metadata = {
         'blockchain consulting'
     ],
     openGraph: {
-        title: 'Blockchain Development Services | byencrypt',
+        title: 'Blockchain Development Services | Vyankatesh',
         description: 'Expert blockchain development services for DeFi, NFTs, and smart contracts.',
-        url: 'https://byencrypt.com/services/blockchain-development',
+        url: 'https://vyankatesh.dev/services/blockchain-development',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/blockchain-development',
+        canonical: 'https://vyankatesh.dev/services/blockchain-development',
     },
 };
 

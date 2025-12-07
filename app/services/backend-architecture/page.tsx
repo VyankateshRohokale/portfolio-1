@@ -17,13 +17,13 @@ export const metadata: Metadata = {
         'system integration'
     ],
     openGraph: {
-        title: 'Backend Architecture Services | byencrypt',
+        title: 'Backend Architecture Services | Vyankatesh',
         description: 'Expert backend architecture and infrastructure services for scalable, high-performance applications.',
-        url: 'https://byencrypt.com/services/backend-architecture',
+        url: 'https://vyankatesh.dev/services/backend-architecture',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/backend-architecture',
+        canonical: 'https://vyankatesh.dev/services/backend-architecture',
     },
 };
 

@@ -2,38 +2,38 @@ import { Users, Globe, Shield, BookOpen, Zap } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'How We Work - Our Development Process & Methodology | byencrypt Careers',
-  description: 'Learn about byencrypt\'s agile development process, collaborative culture, remote work practices, and innovative methodologies for blockchain and Web3 projects.',
+  title: 'How We Work - Our Development Process & Methodology | Vyankatesh Careers',
+  description: 'Learn about Vyankatesh\'s agile development process, collaborative culture, remote work practices, and innovative methodologies for blockchain and Web3 projects.',
   keywords: [
     'agile development process',
     'blockchain development methodology',
     'remote work culture',
     'collaborative development',
-    'byencrypt work process',
+    'Vyankatesh work process',
     'Web3 development practices',
     'software development workflow'
   ],
   openGraph: {
-    title: 'How We Work | byencrypt Careers',
+    title: 'How We Work | Vyankatesh Careers',
     description: 'Discover our agile, collaborative, and innovative development process.',
-    url: 'https://byencrypt.com/career/how-we-work',
+    url: 'https://vyankatesh.dev/career/how-we-work',
     type: 'website',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'How We Work at byencrypt',
+        alt: 'How We Work at Vyankatesh',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How We Work | byencrypt Careers',
+    title: 'How We Work | Vyankatesh Careers',
     description: 'Discover our agile, collaborative, and innovative development process.',
   },
   alternates: {
-    canonical: 'https://byencrypt.com/career/how-we-work',
+    canonical: 'https://vyankatesh.dev/career/how-we-work',
   },
 };
 
@@ -74,7 +74,7 @@ export default function CareerHowWeWorkPage() {
           How <span className="text-lime-400 italic">We Work</span>
         </h1>
         <p className="text-lg sm:text-xl text-gray-400 mb-10">
-          At byencrypt, we believe that great teams build great technology. Our remote-first culture, agile processes, and commitment to transparency empower us to deliver world-class software for blockchain, Web3, and AI.
+          At Vyankatesh, we believe that great teams build great technology. Our remote-first culture, agile processes, and commitment to transparency empower us to deliver world-class software for blockchain, Web3, and AI.
         </p>
         <blockquote className="text-xl sm:text-2xl italic text-lime-400 mb-10">
           “Collaboration and ownership are at the heart of everything we do.”
@@ -155,7 +155,7 @@ export default function CareerHowWeWorkPage() {
           “We build together, learn together, and celebrate our wins together.”
         </blockquote>
         <div className="text-base sm:text-lg text-gray-400">
-          If you’re passionate about building the future of technology in a supportive, high-impact environment, byencrypt is the place for you.
+          If you’re passionate about building the future of technology in a supportive, high-impact environment, Vyankatesh is the place for you.
         </div>
       </div>
     </div>

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
         description: 'Learn how to build secure and scalable DeFi applications from smart contracts to frontend integration.',
         type: 'article',
         publishedTime: '2025-01-25T00:00:00.000Z',
-        authors: ['byencrypt'],
+        authors: ['Vyankatesh'],
     },
 };
 
@@ -525,7 +525,7 @@ contract PriceConsumer {
                         <div className="bg-gradient-to-r from-lime-400/10 to-transparent border-l-4 border-lime-400 p-6 mb-6">
                             <p className="text-white font-semibold mb-2">Ready to Build Your DeFi Protocol?</p>
                             <p className="text-gray-300 mb-4">
-                                At byencrypt, we specialize in DeFi development with a track record of secure, audited protocols. From concept to launch, we'll help you build a robust DeFi application that stands up to real-world use.
+                                At Vyankatesh, we specialize in DeFi development with a track record of secure, audited protocols. From concept to launch, we'll help you build a robust DeFi application that stands up to real-world use.
                             </p>
                             <Link href="/contact" className="inline-flex items-center text-lime-400 hover:text-lime-300 font-semibold">
                                 Start Your DeFi Project →

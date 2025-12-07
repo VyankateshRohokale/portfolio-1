@@ -91,12 +91,12 @@ export async function POST(request: NextRequest) {
                         ],
                         timestamp: new Date().toISOString(),
                         footer: {
-                            text: "byencrypt",
+                            text: "Vyankatesh",
                         },
                     },
                 ],
-                username: "byencrypt contact",
-                avatar_url: "https://byencrypt.com/image_full.jpeg",
+                username: "Vyankatesh contact",
+                avatar_url: "https://vyankatesh.dev/image_full.jpeg",
             };
             await fetch(process.env.DISCORD_WEBHOOK_URL!, {
                 method: 'POST',

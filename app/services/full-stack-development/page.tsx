@@ -16,13 +16,13 @@ export const metadata: Metadata = {
         'responsive web design'
     ],
     openGraph: {
-        title: 'Full Stack Development Services | byencrypt',
+        title: 'Full Stack Development Services | Vyankatesh',
         description: 'Expert full stack development services for web and mobile applications.',
-        url: 'https://byencrypt.com/services/full-stack-development',
+        url: 'https://vyankatesh.dev/services/full-stack-development',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/full-stack-development',
+        canonical: 'https://vyankatesh.dev/services/full-stack-development',
     },
 };
 

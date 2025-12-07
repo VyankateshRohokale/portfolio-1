@@ -31,8 +31,8 @@ export function ServiceSchema({ services }: { services: any[] }) {
         "serviceType": "Software Development",
         "provider": {
             "@type": "Organization",
-            "name": "byencrypt",
-            "url": "https://byencrypt.com"
+            "name": "Vyankatesh",
+            "url": "https://vyankatesh.dev"
         },
         "areaServed": "Worldwide",
         "hasOfferCatalog": {
@@ -83,7 +83,7 @@ export function ArticleSchema({
     image,
     datePublished,
     dateModified,
-    author = 'byencrypt'
+    author = 'Vyankatesh'
 }: {
     title: string;
     description: string;
@@ -97,7 +97,7 @@ export function ArticleSchema({
         "@type": "Article",
         "headline": title,
         "description": description,
-        "image": image || "https://byencrypt.com/image_full.jpeg",
+        "image": image || "https://vyankatesh.dev/image_full.jpeg",
         "datePublished": datePublished,
         "dateModified": dateModified || datePublished,
         "author": {
@@ -106,10 +106,10 @@ export function ArticleSchema({
         },
         "publisher": {
             "@type": "Organization",
-            "name": "byencrypt",
+            "name": "Vyankatesh",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://byencrypt.com/image.png"
+                "url": "https://vyankatesh.dev/image.png"
             }
         }
     };
@@ -143,9 +143,9 @@ export function JobPostingSchema({
         "employmentType": employmentType,
         "hiringOrganization": {
             "@type": "Organization",
-            "name": "byencrypt",
-            "sameAs": "https://byencrypt.com",
-            "logo": "https://byencrypt.com/image.png"
+            "name": "Vyankatesh",
+            "sameAs": "https://vyankatesh.dev",
+            "logo": "https://vyankatesh.dev/image.png"
         },
         "jobLocation": {
             "@type": "Place",

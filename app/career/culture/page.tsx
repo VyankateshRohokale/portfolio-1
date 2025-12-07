@@ -4,11 +4,11 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Company Culture - Remote-First, Innovation-Driven Team',
-  description: 'Discover the byencrypt culture: remote-first, collaborative, and focused on innovation. Learn about our values, work environment, and team dynamics.',
+  description: 'Discover the Vyankatesh culture: remote-first, collaborative, and focused on innovation. Learn about our values, work environment, and team dynamics.',
   openGraph: {
-    title: 'Our Culture | byencrypt Careers',
+    title: 'Our Culture | Vyankatesh Careers',
     description: 'Discover our remote-first, innovation-driven culture.',
-    url: 'https://byencrypt.com/career/culture',
+    url: 'https://vyankatesh.dev/career/culture',
   },
 };
 
@@ -32,12 +32,12 @@ export default function CareerCulturePage() {
         </div>
         <div className="flex-1 md:pt-10">
           <p className="text-base sm:text-lg text-gray-400">
-            At byencrypt, our culture is more than words its a shared commitment to growth, collaboration, and impact.
+            At Vyankatesh, our culture is more than words its a shared commitment to growth, collaboration, and impact.
             We empower every individual to contribute, innovate, and succeed together, creating an environment where diverse perspectives drive our mission forward.
             <br /><br />
             We foster open dialogue and encourage creative problem-solving, ensuring every team member feels valued and heard. Our remote-first approach allows us to attract top talent globally, while flexible work arrangements support a healthy work-life balance.
             <br /><br />
-            At byencrypt, you’ll find a team that’s passionate about making a difference—where your ideas matter, your growth is supported, and your impact is recognized.
+            At Vyankatesh, you’ll find a team that’s passionate about making a difference—where your ideas matter, your growth is supported, and your impact is recognized.
           </p>
         </div>
       </section>
@@ -81,7 +81,7 @@ export default function CareerCulturePage() {
 
       {/* Culture Highlights */}
       <section className="max-w-5xl mx-auto py-10 px-4">
-        <h2 className="text-3xl font-bold text-white text-center mb-10">Life at byencrypt</h2>
+        <h2 className="text-3xl font-bold text-white text-center mb-10">Life at Vyankatesh</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center">
             <Users className="mx-auto mb-4 h-8 w-8 text-lime-400" />

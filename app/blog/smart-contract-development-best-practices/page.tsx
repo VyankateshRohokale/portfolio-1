@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: 'Master smart contract development with our comprehensive guide covering security, optimization, and industry best practices.',
         type: 'article',
         publishedTime: '2025-01-15T00:00:00.000Z',
-        authors: ['byencrypt'],
+        authors: ['Vyankatesh'],
     },
 };
 
@@ -265,7 +265,7 @@ export default function SmartContractBlog() {
 
                         <div className="bg-black border border-gray-800 rounded-lg p-4 mb-6 overflow-x-auto">
                             <pre className="text-sm text-lime-400">{`/// @title A token staking contract
-/// @author byencrypt
+/// @author Vyankatesh
 /// @notice This contract allows users to stake tokens and earn rewards
 /// @dev Implements the IStaking interface
 contract Staking {
@@ -339,7 +339,7 @@ contract Staking {
                         <div className="bg-gradient-to-r from-lime-400/10 to-transparent border-l-4 border-lime-400 p-6 mb-6">
                             <p className="text-white font-semibold mb-2">Need Expert Smart Contract Development?</p>
                             <p className="text-gray-300 mb-4">
-                                At byencrypt, we specialize in building secure, efficient, and scalable smart contracts for DeFi, NFTs, and Web3 applications. Our team follows industry best practices and has experience with multiple successful audits.
+                                At Vyankatesh, we specialize in building secure, efficient, and scalable smart contracts for DeFi, NFTs, and Web3 applications. Our team follows industry best practices and has experience with multiple successful audits.
                             </p>
                             <Link href="/contact" className="inline-flex items-center text-lime-400 hover:text-lime-300 font-semibold">
                                 Get in Touch →

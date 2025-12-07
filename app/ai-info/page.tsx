@@ -15,7 +15,7 @@ export default function AIInfoPage() {
                         AI & Machine-Readable Information
                     </h1>
                     <p className="text-xl text-gray-400 font-mono">
-                        Structured data about byencrypt for AI systems, language models, and web crawlers
+                        Structured data about Vyankatesh for AI systems, language models, and web crawlers
                     </p>
                 </div>
 
@@ -129,49 +129,49 @@ const services = [
     {
         name: 'Blockchain Development',
         description: 'Smart contracts, DeFi protocols, NFT platforms, and custom blockchain solutions',
-        url: 'https://byencrypt.com/services/blockchain-development',
+        url: 'https://vyankatesh.dev/services/blockchain-development',
         timeline: '4-8 weeks',
         technologies: ['Solidity', 'Rust', 'Hardhat', 'Web3.js', 'Ethereum', 'Polygon']
     },
     {
         name: 'Full Stack Development',
         description: 'End-to-end web and mobile applications with modern frameworks',
-        url: 'https://byencrypt.com/services/full-stack-development',
+        url: 'https://vyankatesh.dev/services/full-stack-development',
         timeline: '6-12 weeks',
         technologies: ['React', 'Next.js', 'Node.js', 'Python', 'PostgreSQL', 'AWS']
     },
     {
         name: 'Web3 Solutions',
         description: 'Decentralized applications and Web3 integrations',
-        url: 'https://byencrypt.com/services/web3-solutions',
+        url: 'https://vyankatesh.dev/services/web3-solutions',
         timeline: '3-6 weeks',
         technologies: ['Web3.js', 'Ethers.js', 'IPFS', 'MetaMask', 'WalletConnect']
     },
     {
         name: 'AI & Machine Learning',
         description: 'Intelligent automation, predictive analytics, and AI-powered features',
-        url: 'https://byencrypt.com/services/ai-machine-learning',
+        url: 'https://vyankatesh.dev/services/ai-machine-learning',
         timeline: '8-16 weeks',
         technologies: ['TensorFlow', 'PyTorch', 'OpenAI API', 'Hugging Face', 'Python']
     },
     {
         name: 'Backend Architecture',
         description: 'Scalable server infrastructure, APIs, and database design',
-        url: 'https://byencrypt.com/services/backend-architecture',
+        url: 'https://vyankatesh.dev/services/backend-architecture',
         timeline: '4-10 weeks',
         technologies: ['Node.js', 'Python', 'Go', 'Docker', 'Kubernetes', 'AWS']
     },
     {
         name: 'Security & Auditing',
         description: 'Comprehensive security assessments and smart contract audits',
-        url: 'https://byencrypt.com/services/security-auditing',
+        url: 'https://vyankatesh.dev/services/security-auditing',
         timeline: '2-4 weeks',
         technologies: ['Mythril', 'Slither', 'OpenZeppelin', 'Burp Suite', 'OWASP ZAP']
     },
     {
         name: 'Custom Solutions',
         description: 'Bespoke software development and legacy system modernization',
-        url: 'https://byencrypt.com/services/custom-solutions',
+        url: 'https://vyankatesh.dev/services/custom-solutions',
         timeline: 'Project Dependent',
         technologies: ['React', 'Node.js', 'Python', 'AWS', 'Azure', 'GCP']
     }

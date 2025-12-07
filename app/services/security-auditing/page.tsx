@@ -17,13 +17,13 @@ export const metadata: Metadata = {
         'compliance consulting'
     ],
     openGraph: {
-        title: 'Security & Auditing Services | byencrypt',
+        title: 'Security & Auditing Services | Vyankatesh',
         description: 'Expert security auditing and penetration testing for blockchain and web applications.',
-        url: 'https://byencrypt.com/services/security-auditing',
+        url: 'https://vyankatesh.dev/services/security-auditing',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/security-auditing',
+        canonical: 'https://vyankatesh.dev/services/security-auditing',
     },
 };
 

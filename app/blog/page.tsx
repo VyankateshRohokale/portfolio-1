@@ -15,9 +15,9 @@ export const metadata: Metadata = {
         'full-stack development blog'
     ],
     openGraph: {
-        title: 'Blog | byencrypt',
+        title: 'Blog | Vyankatesh',
         description: 'Expert insights on blockchain, Web3, AI, and full-stack development.',
-        url: 'https://byencrypt.com/blog',
+        url: 'https://vyankatesh.dev/blog',
         type: 'website',
     },
 };
@@ -88,7 +88,7 @@ export default function BlogPage() {
                         Development <span className="text-lime-400">Insights</span>
                     </h1>
                     <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                        Expert guides, tutorials, and insights on blockchain, Web3, AI, DeFi, and full-stack development from the byencrypt team.
+                        Expert guides, tutorials, and insights on blockchain, Web3, AI, DeFi, and full-stack development from the Vyankatesh team.
                     </p>
                 </div>
             </section>

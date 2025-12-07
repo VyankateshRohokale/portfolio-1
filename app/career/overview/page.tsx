@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Careers - Join Our Team of Expert Developers',
-  description: 'Join byencrypt and work on cutting-edge blockchain, Web3, and AI projects. Remote-first team with competitive compensation and growth opportunities.',
+  description: 'Join Vyankatesh and work on cutting-edge blockchain, Web3, and AI projects. Remote-first team with competitive compensation and growth opportunities.',
   keywords: [
     'blockchain developer jobs',
     'Web3 careers',
@@ -13,9 +13,9 @@ export const metadata: Metadata = {
     'AI developer careers'
   ],
   openGraph: {
-    title: 'Careers at byencrypt',
+    title: 'Careers at Vyankatesh',
     description: 'Join our remote-first team working on blockchain, Web3, and AI projects.',
-    url: 'https://byencrypt.com/career/overview',
+    url: 'https://vyankatesh.dev/career/overview',
   },
 };
 
@@ -55,7 +55,7 @@ export default function CareerOverviewPage() {
           </div>
           <h2 className="text-3xl font-bold text-white mb-4">Our Mission</h2>
           <p className="text-base sm:text-lg text-gray-400 mb-4">
-            At byencrypt, we’re building the digital infrastructure for tomorrow.
+            At Vyankatesh, we’re building the digital infrastructure for tomorrow.
             Our software powers decentralized finance, secure data, and intelligent automation for clients worldwide.
           </p>
           <p className="text-base sm:text-lg text-gray-400">
@@ -104,10 +104,10 @@ export default function CareerOverviewPage() {
         </div>
       </section>
 
-      {/* Life at byencrypt Section */}
+      {/* Life at Vyankatesh Section */}
       <section className="py-16">
         <div className="max-w-5xl mx-auto px-4">
-          <h2 className="text-3xl font-bold text-white text-center mb-10">Life at byencrypt</h2>
+          <h2 className="text-3xl font-bold text-white text-center mb-10">Life at Vyankatesh</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-gray-900 border border-gray-800 rounded-2xl p-8 text-center">
               <Laptop2 className="mx-auto mb-4 h-8 w-8 text-lime-400" />

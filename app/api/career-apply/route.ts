@@ -74,7 +74,7 @@ export async function POST(request: NextRequest) {
         //         </tr>
         //     </table>
         //     <p style="margin-top: 20px;">Please respond to this inquiry as soon as possible.</p>
-        //     <p>Best regards,<br/>Team byencrypt</p>
+        //     <p>Best regards,<br/>Team Vyankatesh</p>
         // </div>
         // `;
 
@@ -144,13 +144,13 @@ export async function POST(request: NextRequest) {
                 </tr>
             </table>
             <p style="margin-top: 20px;">Please review this application at your earliest convenience.</p>
-            <p>Best regards,<br/>Team byencrypt</p>
+            <p>Best regards,<br/>Team Vyankatesh</p>
         </div>
 `
 
 
             const mailOptions = {
-                from: `"byencrypt careers" <careers@${process.env.EMAIL_FROM}>`,
+                from: `"Vyankatesh careers" <careers@${process.env.EMAIL_FROM}>`,
                 to: process.env.CONTACT_RECEIVER,
                 subject: `New Job Application for ${jobTitle || 'a position'}`,
                 html: htmlTemplate2,
@@ -161,15 +161,15 @@ export async function POST(request: NextRequest) {
 
             // send an auto-response email to the user
             const autoResponseOptions = {
-                from: `"byencrypt careers" <careers@${process.env.EMAIL_FROM}>`,
+                from: `"Vyankatesh careers" <careers@${process.env.EMAIL_FROM}>`,
                 to: email,
-                subject: 'Thank you for applying to byencrypt',
+                subject: 'Thank you for applying to Vyankatesh',
                 html: `
             <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
                 <p>Dear ${name},</p>
-                <p>Thank you for showing interest in joining byencrypt. We have received your application for the position of ${jobTitle || 'a position'} and our team will review it shortly. If your skills and experience match our requirements, we will reach out to you for the next steps in the hiring process.</p>
+                <p>Thank you for showing interest in joining Vyankatesh. We have received your application for the position of ${jobTitle || 'a position'} and our team will review it shortly. If your skills and experience match our requirements, we will reach out to you for the next steps in the hiring process.</p>
                 <p>We appreciate the time and effort you put into your application and look forward to potentially working together.</p>
-                <p>Best regards,<br/>Team byencrypt</p>
+                <p>Best regards,<br/>Team Vyankatesh</p>
             </div>
             `,
             };
@@ -205,12 +205,12 @@ export async function POST(request: NextRequest) {
                         ],
                         timestamp: new Date().toISOString(),
                         footer: {
-                            text: "byencrypt",
+                            text: "Vyankatesh",
                         },
                     },
                 ],
-                username: "byencrypt careers",
-                avatar_url: "https://byencrypt.com/image_full.jpeg",
+                username: "Vyankatesh careers",
+                avatar_url: "https://vyankatesh.dev/image_full.jpeg",
             };
             await fetch(process.env.DISCORD_WEBHOOK_URL!, {
                 method: 'POST',

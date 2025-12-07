@@ -149,7 +149,7 @@ export default function RootLayout({
                   "@type": "Service",
                   "name": "Blockchain Development",
                   "description": "Smart contracts, DeFi protocols, NFT platforms, and custom blockchain solutions",
-                  "url": "https://byencrypt.com/services/blockchain-development"
+                  "url": "https://vyankatesh.dev/services/blockchain-development"
                 }
               },
               {
@@ -158,7 +158,7 @@ export default function RootLayout({
                   "@type": "Service",
                   "name": "Full Stack Development",
                   "description": "End-to-end web and mobile applications with modern frameworks",
-                  "url": "https://byencrypt.com/services/full-stack-development"
+                  "url": "https://vyankatesh.dev/services/full-stack-development"
                 }
               },
               {
@@ -167,7 +167,7 @@ export default function RootLayout({
                   "@type": "Service",
                   "name": "Web3 Solutions",
                   "description": "Decentralized applications and Web3 integrations",
-                  "url": "https://byencrypt.com/services/web3-solutions"
+                  "url": "https://vyankatesh.dev/services/web3-solutions"
                 }
               },
               {
@@ -176,7 +176,7 @@ export default function RootLayout({
                   "@type": "Service",
                   "name": "AI & Machine Learning",
                   "description": "Intelligent automation and AI-powered features",
-                  "url": "https://byencrypt.com/services/ai-machine-learning"
+                  "url": "https://vyankatesh.dev/services/ai-machine-learning"
                 }
               }
             ]

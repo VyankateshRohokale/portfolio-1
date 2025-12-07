@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description: 'Discover how AI and blockchain technologies work together to create the next generation of intelligent decentralized applications.',
         type: 'article',
         publishedTime: '2025-02-01T00:00:00.000Z',
-        authors: ['byencrypt'],
+        authors: ['Vyankatesh'],
     },
 };
 
@@ -458,7 +458,7 @@ contract AIOracle {
                         <div className="bg-gradient-to-r from-lime-400/10 to-transparent border-l-4 border-lime-400 p-6 mb-6">
                             <p className="text-white font-semibold mb-2">Building AI-Powered Blockchain Solutions?</p>
                             <p className="text-gray-300 mb-4">
-                                At byencrypt, we combine deep expertise in both AI and blockchain to create cutting-edge solutions. From intelligent DeFi protocols to decentralized AI marketplaces, we can help bring your vision to life.
+                                At Vyankatesh, we combine deep expertise in both AI and blockchain to create cutting-edge solutions. From intelligent DeFi protocols to decentralized AI marketplaces, we can help bring your vision to life.
                             </p>
                             <Link href="/contact" className="inline-flex items-center text-lime-400 hover:text-lime-300 font-semibold">
                                 Let's Build Together →

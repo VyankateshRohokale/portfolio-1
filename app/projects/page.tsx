@@ -14,16 +14,16 @@ export const metadata: Metadata = {
     'development case studies'
   ],
   openGraph: {
-    title: 'Our Projects & Portfolio | byencrypt',
+    title: 'Our Projects & Portfolio | Vyankatesh',
     description: 'Explore our portfolio of successful software development projects including blockchain, Web3, and AI solutions.',
-    url: 'https://byencrypt.com/projects',
+    url: 'https://vyankatesh.dev/projects',
     type: 'website',
     images: [
       {
         url: '/image_full.jpeg',
         width: 1200,
         height: 630,
-        alt: 'byencrypt Projects',
+        alt: 'Vyankatesh Projects',
       },
     ],
   },

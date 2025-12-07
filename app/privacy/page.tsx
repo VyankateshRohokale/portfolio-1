@@ -161,7 +161,7 @@ export default function PrivacyPage() {
                 </p>
                 <div className="space-y-2 text-gray-400 ml-4">
                   <p>Email: <a href="mailto:realpiyush2525@gmail.com" className="text-lime-400 hover:text-white">realpiyush2525@gmail.com</a></p>
-                  {/* <p>Support: <a href="mailto:support@byencrypt.com" className="text-lime-400 hover:text-white">support@byencrypt.com</a></p> */}
+                  {/* <p>Support: <a href="mailto:support@Vyankatesh.com" className="text-lime-400 hover:text-white">support@Vyankatesh.com</a></p> */}
                 </div>
               </div>
             </div>

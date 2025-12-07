@@ -24,7 +24,7 @@
         "Solana"
       ],
       "timeline": "4-8 weeks",
-      "url": "https://byencrypt.com/services/blockchain-development"
+      "url": "https://vyankatesh.dev/services/blockchain-development"
     },
     {
       "name": "Full Stack Development",
@@ -40,7 +40,7 @@
         "MongoDB"
       ],
       "timeline": "6-12 weeks",
-      "url": "https://byencrypt.com/services/full-stack-development"
+      "url": "https://vyankatesh.dev/services/full-stack-development"
     },
     {
       "name": "Web3 Solutions",
@@ -55,7 +55,7 @@
         "The Graph"
       ],
       "timeline": "3-6 weeks",
-      "url": "https://byencrypt.com/services/web3-solutions"
+      "url": "https://vyankatesh.dev/services/web3-solutions"
     },
     {
       "name": "AI & Machine Learning",
@@ -70,7 +70,7 @@
         "Python"
       ],
       "timeline": "8-16 weeks",
-      "url": "https://byencrypt.com/services/ai-machine-learning"
+      "url": "https://vyankatesh.dev/services/ai-machine-learning"
     },
     {
       "name": "Backend Architecture",
@@ -86,7 +86,7 @@
         "Kubernetes"
       ],
       "timeline": "4-10 weeks",
-      "url": "https://byencrypt.com/services/backend-architecture"
+      "url": "https://vyankatesh.dev/services/backend-architecture"
     },
     {
       "name": "Security & Auditing",
@@ -100,7 +100,7 @@
         "OWASP ZAP"
       ],
       "timeline": "2-4 weeks",
-      "url": "https://byencrypt.com/services/security-auditing"
+      "url": "https://vyankatesh.dev/services/security-auditing"
     },
     {
       "name": "Custom Solutions",
@@ -116,33 +116,33 @@
         "GCP"
       ],
       "timeline": "Project Dependent (2-16+ weeks)",
-      "url": "https://byencrypt.com/services/custom-solutions"
+      "url": "https://vyankatesh.dev/services/custom-solutions"
     }
   ],
   "blog": [
     {
       "title": "Smart Contract Development Best Practices",
-      "url": "https://byencrypt.com/blog/smart-contract-development-best-practices",
+      "url": "https://vyankatesh.dev/blog/smart-contract-development-best-practices",
       "topics": ["blockchain", "smart contracts", "security", "Solidity"]
     },
     {
       "title": "Web3 vs Web2: Business Transformation Guide",
-      "url": "https://byencrypt.com/blog/web3-vs-web2-business-transformation-guide",
+      "url": "https://vyankatesh.dev/blog/web3-vs-web2-business-transformation-guide",
       "topics": ["Web3", "business transformation", "blockchain"]
     },
     {
       "title": "DeFi Development Guide 2025",
-      "url": "https://byencrypt.com/blog/defi-development-guide-2025",
+      "url": "https://vyankatesh.dev/blog/defi-development-guide-2025",
       "topics": ["DeFi", "blockchain", "finance", "development"]
     },
     {
       "title": "AI & Blockchain Integration Guide",
-      "url": "https://byencrypt.com/blog/ai-blockchain-integration-guide",
+      "url": "https://vyankatesh.dev/blog/ai-blockchain-integration-guide",
       "topics": ["AI", "blockchain", "machine learning", "integration"]
     },
     {
       "title": "Full Stack Development Trends 2025",
-      "url": "https://byencrypt.com/blog/full-stack-development-trends-2025",
+      "url": "https://vyankatesh.dev/blog/full-stack-development-trends-2025",
       "topics": ["full-stack", "development trends", "web development"]
     }
   ],

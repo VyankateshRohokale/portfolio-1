@@ -115,7 +115,7 @@ export default function TermsPage() {
                   Upon full payment, clients retain ownership of custom developed software,
                   applications, and related deliverables created specifically for their project.
                 </p>
-                <h3 className="text-lg font-semibold text-white mt-4">byencrypt Rights</h3>
+                <h3 className="text-lg font-semibold text-white mt-4">Vyankatesh Rights</h3>
                 <ul className="list-disc list-inside space-y-2 text-gray-400 ml-4">
                   <li>We retain rights to our methodologies, frameworks, and pre-existing tools</li>
                   <li>We may showcase completed projects in our portfolio (with client consent)</li>
@@ -132,7 +132,7 @@ export default function TermsPage() {
               </div>
               <div className="space-y-4 text-gray-300">
                 <p className="text-gray-400">
-                  byencrypt provides services `as is`` and makes no warranties, express or implied,
+                  Vyankatesh provides services `as is`` and makes no warranties, express or implied,
                   including but not limited to warranties of merchantability, fitness for a particular purpose,
                   or non-infringement.
                 </p>
@@ -156,7 +156,7 @@ export default function TermsPage() {
               <div className="space-y-4 text-gray-300">
                 <p className="text-gray-400">
                   We understand the importance of confidentiality in business relationships.
-                  byencrypt commits to:
+                  Vyankatesh commits to:
                 </p>
                 <ul className="list-disc list-inside space-y-2 text-gray-400 ml-4">
                   <li>Keep all client information strictly confidential</li>
@@ -201,7 +201,7 @@ export default function TermsPage() {
               <h2 className="text-2xl font-bold text-white mb-6">Changes to Terms</h2>
               <div className="space-y-4 text-gray-300">
                 <p className="text-gray-400">
-                  byencrypt reserves the right to modify these terms at any time.
+                  Vyankatesh reserves the right to modify these terms at any time.
                   Changes will be effective immediately upon posting on our website.
                   Continued use of our services constitutes acceptance of modified terms.
                 </p>

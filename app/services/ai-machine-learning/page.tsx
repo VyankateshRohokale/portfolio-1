@@ -17,13 +17,13 @@ export const metadata: Metadata = {
         'data science consulting'
     ],
     openGraph: {
-        title: 'AI & Machine Learning Services | byencrypt',
+        title: 'AI & Machine Learning Services | Vyankatesh',
         description: 'Expert AI and machine learning development services for intelligent automation and data-driven insights.',
-        url: 'https://byencrypt.com/services/ai-machine-learning',
+        url: 'https://vyankatesh.dev/services/ai-machine-learning',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/ai-machine-learning',
+        canonical: 'https://vyankatesh.dev/services/ai-machine-learning',
     },
 };
 

@@ -106,7 +106,7 @@ export default function CareerApplyPage() {
                 {/* Hero */}
                 <div className="text-center mb-10 md:mb-16 px-2">
                     <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-4 leading-tight">
-                        Join <span className="text-4xl sm:text-5xl md:text-6xl text-lime-400 font-semibold font-clock">byencrypt</span> and help us<br />
+                        Join <span className="text-4xl sm:text-5xl md:text-6xl text-lime-400 font-semibold font-clock">Vyankatesh</span> and help us<br />
                         <span className="text-4xl sm:text-5xl md:text-6xl text-lime-400 font-semibold font-clock">build the future</span> of technology
                     </h1>
                     <p className="text-sm sm:text-lg text-gray-400 max-w-md sm:max-w-2xl mx-auto">

@@ -17,22 +17,22 @@ export const metadata: Metadata = {
     'NFT marketplace development'
   ],
   openGraph: {
-    title: 'Software Development Services | byencrypt',
+    title: 'Software Development Services | Vyankatesh',
     description: 'Professional software development services including blockchain, Web3, AI, and full-stack development.',
-    url: 'https://byencrypt.com/services',
+    url: 'https://vyankatesh.dev/services',
     type: 'website',
     images: [
       {
         url: '/image_full.jpeg',
         width: 1200,
         height: 630,
-        alt: 'byencrypt Services',
+        alt: 'Vyankatesh Services',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Software Development Services | byencrypt',
+    title: 'Software Development Services | Vyankatesh',
     description: 'Professional software development services including blockchain, Web3, AI, and full-stack development.',
   },
 };

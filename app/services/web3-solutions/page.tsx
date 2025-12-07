@@ -17,13 +17,13 @@ export const metadata: Metadata = {
         'decentralized applications'
     ],
     openGraph: {
-        title: 'Web3 Solutions | byencrypt',
+        title: 'Web3 Solutions | Vyankatesh',
         description: 'Expert Web3 development services for decentralized applications and blockchain integration.',
-        url: 'https://byencrypt.com/services/web3-solutions',
+        url: 'https://vyankatesh.dev/services/web3-solutions',
         type: 'website',
     },
     alternates: {
-        canonical: 'https://byencrypt.com/services/web3-solutions',
+        canonical: 'https://vyankatesh.dev/services/web3-solutions',
     },
 };
 
