@@ -59,9 +59,9 @@ export default function AIMachineLearningPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Our AI and machine learning team develops intelligent solutions that automate processes,
+                                I develop intelligent solutions that automate processes,
                                 extract insights from data, and create adaptive systems that learn and improve over time.
                             </p>
                             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -114,7 +114,7 @@ export default function AIMachineLearningPage() {
             {/* Services Offered */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our AI & ML Services</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">AI Our AI & ML Services ML Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {[
                             {
@@ -207,7 +207,7 @@ export default function AIMachineLearningPage() {
             {/* Process */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our AI Development Process</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">AI Development Process</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                         {[
                             { step: '01', title: 'Data Analysis & Strategy', desc: 'Analyze your data and define AI objectives and success metrics' },

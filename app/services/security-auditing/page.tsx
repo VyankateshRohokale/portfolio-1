@@ -59,9 +59,9 @@ export default function SecurityAuditingPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Our security experts conduct thorough audits and penetration testing to identify vulnerabilities
+                                I conduct thorough audits and penetration testing to identify vulnerabilities
                                 before they can be exploited. We specialize in both blockchain security and traditional application security.
                             </p>
                             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -114,7 +114,7 @@ export default function SecurityAuditingPage() {
             {/* Services Offered */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Security Services</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Security Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {[
                             {
@@ -207,7 +207,7 @@ export default function SecurityAuditingPage() {
             {/* Process */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Security Audit Process</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Security Audit Process</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                         {[
                             { step: '01', title: 'Scope Definition', desc: 'Define audit scope, objectives, and assessment criteria' },
@@ -301,9 +301,7 @@ export default function SecurityAuditingPage() {
                             Request Audit
                             <Zap className="ml-2 h-5 w-5" />
                         </Link>
-                        <Link href="/projects" className="inline-flex items-center justify-center px-8 py-4 border border-gray-700 text-gray-300 font-semibold rounded-full hover:border-lime-400 hover:text-lime-400 transition-all duration-300">
-                            View Past Audits
-                        </Link>
+                        
                     </div>
                 </div>
             </section>

@@ -59,7 +59,7 @@ export default function CustomSolutionsPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
                                 Every business has unique challenges that off-the-shelf solutions can't address. Our custom development
                                 team builds bespoke software tailored to your specific requirements, workflows, and business objectives.
@@ -331,7 +331,7 @@ export default function CustomSolutionsPage() {
                             <Zap className="ml-2 h-5 w-5" />
                         </Link>
                         <Link href="/projects" className="inline-flex items-center justify-center px-8 py-4 border border-gray-700 text-gray-300 font-semibold rounded-full hover:border-lime-400 hover:text-lime-400 transition-all duration-300">
-                            View Our Work
+                            View My Work
                         </Link>
                     </div>
                 </div>

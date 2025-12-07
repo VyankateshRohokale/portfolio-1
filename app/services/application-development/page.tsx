@@ -58,14 +58,14 @@ export default function ApplicationDevelopmentPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Our application development team creates powerful, user-friendly mobile applications for both iOS and Android platforms.
-                                We leverage modern frameworks and best practices to deliver apps that perform seamlessly across all devices.
+                                I create powerful, user-friendly mobile applications for both iOS and Android platforms.
+                                I leverage modern frameworks and best practices to deliver apps that perform seamlessly across all devices.
                             </p>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                From concept to deployment and maintenance, we handle every aspect of mobile app development.
-                                Whether you need a native app for optimal performance or a cross-platform solution for faster time-to-market, we've got you covered.
+                                From concept to deployment and maintenance, I handle every aspect of mobile app development.
+                                Whether you need a native app for optimal performance or a cross-platform solution for faster time-to-market, I've got you covered.
                             </p>
                             <Link href="/contact" className="inline-flex items-center px-6 py-3 border border-lime-400 text-lime-400 font-semibold rounded-full hover:bg-lime-400 hover:text-black transition-all duration-300">
                                 Start Your Project
@@ -74,13 +74,13 @@ export default function ApplicationDevelopmentPage() {
                         </div>
 
                         <div className="bg-gray-900/70 border border-gray-800 rounded-xl p-8">
-                            <h3 className="text-2xl font-bold text-white mb-6">Why Choose Us</h3>
+                            <h3 className="text-2xl font-bold text-white mb-6">Why Choose Me</h3>
                             <div className="space-y-4">
                                 <div className="flex items-start">
                                     <Code2 className="h-6 w-6 text-lime-400 mr-3 mt-1 flex-shrink-0" />
                                     <div>
-                                        <h4 className="text-white font-semibold mb-1">Expert Developers</h4>
-                                        <p className="text-gray-400 text-sm">Experienced team with proven track record in iOS and Android development</p>
+                                        <h4 className="text-white font-semibold mb-1">Expert Developer</h4>
+                                        <p className="text-gray-400 text-sm">Experienced developer with proven track record in iOS and Android development</p>
                                     </div>
                                 </div>
                                 <div className="flex items-start">
@@ -113,7 +113,7 @@ export default function ApplicationDevelopmentPage() {
             {/* Services Offered */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Application Services</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Application Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {[
                             {

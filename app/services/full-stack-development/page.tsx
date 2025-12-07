@@ -58,9 +58,9 @@ export default function FullStackDevelopmentPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Our full stack development team builds complete, scalable applications from database to user interface.
+                                I build complete, scalable applications from database to user interface.
                                 We handle everything from concept to deployment, ensuring seamless integration across all layers of your application.
                             </p>
                             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -113,7 +113,7 @@ export default function FullStackDevelopmentPage() {
             {/* Services Offered */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Full Stack Services</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Full Stack Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {[
                             {

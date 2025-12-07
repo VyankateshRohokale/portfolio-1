@@ -59,9 +59,9 @@ export default function BackendArchitecturePage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                         <div>
-                            <h2 className="text-3xl font-bold text-white mb-6">What We Offer</h2>
+                            <h2 className="text-3xl font-bold text-white mb-6">What I Offer</h2>
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Our backend architecture team designs and builds scalable server-side solutions that handle high traffic,
+                                I design and builds scalable server-side solutions that handle high traffic,
                                 process data efficiently, and integrate seamlessly with your frontend applications.
                             </p>
                             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -114,7 +114,7 @@ export default function BackendArchitecturePage() {
             {/* Services Offered */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Backend Services</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Backend Services</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {[
                             {
@@ -207,7 +207,7 @@ export default function BackendArchitecturePage() {
             {/* Process */}
             <section className="py-16 bg-gray-900/30">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Our Development Process</h2>
+                    <h2 className="text-3xl font-bold text-white mb-12 text-center">Development Process</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                         {[
                             { step: '01', title: 'Architecture Design', desc: 'Design scalable system architecture and define technology stack' },
@@ -302,7 +302,7 @@ export default function BackendArchitecturePage() {
                             <Zap className="ml-2 h-5 w-5" />
                         </Link>
                         <Link href="/projects" className="inline-flex items-center justify-center px-8 py-4 border border-gray-700 text-gray-300 font-semibold rounded-full hover:border-lime-400 hover:text-lime-400 transition-all duration-300">
-                            View Our Work
+                            View My Work
                         </Link>
                     </div>
                 </div>
