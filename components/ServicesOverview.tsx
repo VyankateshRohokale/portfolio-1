@@ -60,7 +60,7 @@ const ServicesOverview = () => {
       <div className="max-w-[1920px] mx-auto px-4 sm:px-6 lg:px-8 xl:px-32">
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-white mb-4 font-mono">
-            Our <span className="text-lime-400">Services</span>
+            <span className="text-lime-400">Services</span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto font-mono">
             We deliver cutting-edge solutions across the entire technology spectrum,

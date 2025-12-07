@@ -65,7 +65,7 @@ export default function TermsPage() {
                 <h2 className="text-2xl font-bold text-white">Services Description</h2>
               </div>
               <div className="space-y-4 text-gray-300">
-                <p className="text-gray-400">byencrypt provides the following services:</p>
+                <p className="text-gray-400">I provides the following services:</p>
                 <ul className="list-disc list-inside space-y-2 text-gray-400 ml-4">
                   <li>Blockchain development and smart contract creation</li>
                   <li>Web3 and decentralized application (dApp) development</li>
